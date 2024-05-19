@@ -81,8 +81,7 @@ const deleteSleepRecord = asyncHandler(async (req, res) => {
     const index = sleepData.findIndex(record => record.id === recordId);
 
     if (index === -1) {
-        res.status(404);
-        throw new Error('Record not found');
+        return res.status(404).json({ message: 'Record not found' });
     }
 
     sleepData.splice(index, 1);
