@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2",
+    "userId": "user2",
+    "hours": 8,
+    "timestamp": "2024-05-23T09:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "userId": "user1",
+    "hours": 6,
+    "timestamp": "2024-05-22T07:00:00.000Z"
+  },
+  {
+    "id": "8c41e33c-81ad-47e4-bab4-73e41b844b5e",
+    "userId": "user1",
+    "hours": "5",
+    "timestamp": "2024-05-19T05:37:39.238Z"
+  },
+  {
+    "id": "5a139d5c-460c-4585-a8ad-b94edc9d53e6",
+    "userId": "user3",
+    "hours": "6",
+    "timestamp": "2024-05-19T05:45:15.829Z"
+  },
+  {
+    "id": "e2a3f02f-6a3d-4f4d-9299-7424f6b9d2e0",
+    "userId": "user4",
+    "hours": "6.5",
+    "timestamp": "2024-05-19T05:45:37.450Z"
+  },
+  {
+    "id": "5859dc82-00be-4522-865d-a658c86839c5",
+    "userId": "user5",
+    "hours": "10",
+    "timestamp": "2024-05-19T05:47:34.854Z"
+  },
+  {
+    "id": "01b80ea2-60bf-4567-859d-784721f93c75",
+    "userId": "user6",
+    "hours": "7.5",
+    "timestamp": "2024-05-19T09:33:29.514Z"
+  }
+]
