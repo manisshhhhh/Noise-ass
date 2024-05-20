@@ -6,12 +6,6 @@
     "timestamp": "2024-05-23T09:00:00.000Z"
   },
   {
-    "id": "8c41e33c-81ad-47e4-bab4-73e41b844b5e",
-    "userId": "user1",
-    "hours": "5",
-    "timestamp": "2024-05-19T05:37:39.238Z"
-  },
-  {
     "id": "5a139d5c-460c-4585-a8ad-b94edc9d53e6",
     "userId": "user3",
     "hours": "6",
@@ -52,5 +46,11 @@
     "userId": "user8",
     "hours": "12",
     "timestamp": "2024-05-19T15:59:36.641Z"
+  },
+  {
+    "id": "0d5df53f-51de-494c-8bf3-7e3e93df5f26",
+    "userId": "user1",
+    "hours": 8,
+    "timestamp": "2024-05-20T02:08:21.235Z"
   }
 ]
